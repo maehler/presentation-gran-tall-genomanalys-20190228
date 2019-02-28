@@ -279,8 +279,8 @@ body {
 
 .slidelink {
   position: absolute;
-  right: 20px;
-  top: 0;
+  right: 0.5em;
+  top: 0.5em;
   z-index: 10000;
   opacity: 0.75; }
 
